@@ -1,5 +1,5 @@
 # **Achilleas-vs-food**
-A java based implementation of a friend of mine (Achilleas) chasing a burger at space, using "swing" library for GUI
+A java based implementation of a game consisting of a friend of mine (Achilleas) chasing a burger at space, using "swing" library for GUI.
 
 ## **Table of contents**
 - [General info](#general-info)
@@ -12,8 +12,7 @@ A java based implementation of a friend of mine (Achilleas) chasing a burger at 
 <br/>
 
 ### **General info:**
-This project is an implementation of a chess game using the programming language Java. For the implementation, “swing” library was used in order to visualize 
-everything using the Graphical User Interface it provides. It is a game just for fun.
+This project is an implementation of a game consisting of a friend of mine (Achilleas) chasing a burger at space using the programming language Java. For the implementation, “swing” library was used in order to visualize everything using the Graphical User Interface it provides. It is a game created just for fun.
 <br/>
 <br/>
 
