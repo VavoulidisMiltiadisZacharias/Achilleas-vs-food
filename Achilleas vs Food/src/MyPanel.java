@@ -54,10 +54,10 @@ public class MyPanel extends JPanel implements ActionListener
 		this.setPreferredSize(new Dimension(PANEL_WIDTH, PANEL_HEIGHT)); //Since we are using pack() function
 		this.setBackground(Color.black);
 		
-		Burger = new ImageIcon("D:\\Github local repositories\\Achilleas vs food\\Achilleas vs Food\\Photos\\Burger.png").getImage();
-		Achilleas = new ImageIcon("D:\\Github local repositories\\Achilleas vs food\\Achilleas vs Food\\Photos\\Achilleas.png").getImage(); //Creates (gets) an image out of our imageIcon
+		Burger = new ImageIcon("D:\\Github local repositories\\Achilleas vs food\\Achilleas vs Food\\photos\\Burger.png").getImage();
+		Achilleas = new ImageIcon("D:\\Github local repositories\\Achilleas vs food\\Achilleas vs Food\\photos\\Achilleas.png").getImage(); //Creates (gets) an image out of our imageIcon
 		
-		Space = new ImageIcon("D:\\Github local repositories\\Achilleas vs food\\Achilleas vs Food\\Photos\\Space.jpg").getImage();  //Creates (gets) an image out of our imageIcon
+		Space = new ImageIcon("D:\\Github local repositories\\Achilleas vs food\\Achilleas vs Food\\photos\\Space.jpg").getImage();  //Creates (gets) an image out of our imageIcon
 		
 		Timer = new Timer(12, this); 	//1st arg: Delay of how often this timer fires or does something (in milliseconds)
 									//2nd arg: An ActionListener

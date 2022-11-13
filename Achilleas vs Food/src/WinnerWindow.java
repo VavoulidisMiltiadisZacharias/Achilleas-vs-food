@@ -16,7 +16,7 @@ public class WinnerWindow extends JFrame
 	//Constructor
 	WinnerWindow()
 	{
-		myImage = new ImageIcon("D:\\Github local repositories\\Achilleas vs food\\Achilleas vs Food\\Photos\\Achilleas2.png");
+		myImage = new ImageIcon("D:\\Github local repositories\\Achilleas vs food\\Achilleas vs Food\\photos\\Achilleas2.png");
 		
 		
 		myLabel.setSize(570, 570);
